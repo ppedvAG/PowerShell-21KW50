@@ -11,3 +11,4 @@ Begleitende Informationen zu den PowerShell Kursen der ppedv AG in KW 50
 - Module
 - Variablen1
 - Operationen
+- Formatierung
