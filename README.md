@@ -14,3 +14,6 @@ Begleitende Informationen zu den PowerShell Kursen der ppedv AG in KW 50
 - Formatierung
 - PipeLine1
 - PipeLine2
+---
+- Export/Import 1
+- Export/Import 2
