@@ -27,3 +27,7 @@ Begleitende Informationen zu den PowerShell Kursen der ppedv AG in KW 50
 - Einleitung
 - Git
 - DSC
+- Skriptsicherheit
+- Skripting
+    - Parametrisierung
+    - Parametervalidierung
