@@ -17,3 +17,13 @@ Begleitende Informationen zu den PowerShell Kursen der ppedv AG in KW 50
 ---
 - Export/Import 1
 - Export/Import 2
+- Filtern
+- Aufzählen
+- Schleifen
+- Verzweigungen
+- Import / PipeLine2
+
+## Agenda:
+- Einleitung
+- Git
+- DSC
