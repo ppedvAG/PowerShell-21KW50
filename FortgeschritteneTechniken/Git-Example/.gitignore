@@ -1,0 +1,9 @@
+
+#Dateierweiterung
+*.bmp
+
+#Ordner ausnehmen
+Ordnername/
+
+#Dateierweiterung
+Ordnername/*.jpg
