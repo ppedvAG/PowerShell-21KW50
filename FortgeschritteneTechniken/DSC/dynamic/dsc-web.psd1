@@ -1,7 +1,7 @@
 ﻿@{
     AllNodes = @(
         @{
-            NodeNAme = "Member1"
+            NodeName = "Member1"
             WindowsFeatures = @(
             @{
                 Name="Web-Server"
