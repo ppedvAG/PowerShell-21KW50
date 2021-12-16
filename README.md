@@ -31,3 +31,6 @@ Begleitende Informationen zu den PowerShell Kursen der ppedv AG in KW 50
 - Skripting
     - Parametrisierung
     - Parametervalidierung
+---
+- Funktionen
+- SkriptModule / eigenes SkriptModul
