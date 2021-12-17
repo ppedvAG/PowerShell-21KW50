@@ -34,3 +34,6 @@ Begleitende Informationen zu den PowerShell Kursen der ppedv AG in KW 50
 ---
 - Funktionen
 - SkriptModule / eigenes SkriptModul
+- Pipelinefähgikeit
+- Rest Apis
+- Class / Enum

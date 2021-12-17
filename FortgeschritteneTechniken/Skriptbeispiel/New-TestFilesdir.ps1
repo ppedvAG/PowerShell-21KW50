@@ -43,9 +43,8 @@ if(Test-Path -Path $TestFilesDir)
     }
     else
     {
-        #Wird später durch etwas besseres ersetzt.
-        Write-Host -Object "Ordner bereits vorhanden" -ForegroundColor Red
-        exit
+        #Diese Zeile wurde am zweiten Tag beim Punkt Fehlerbehandlung hinzugefügt
+        throw "Der Ordner ist bereits vorhanden. Wenn dieser überschrieben werden soll. Rufen Sie das Skript mit dem Parameter -Force auf"
     }
 }
 else
